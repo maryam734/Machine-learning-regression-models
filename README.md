@@ -27,5 +27,3 @@ Developed as part of an IIT Research Internship project.
 ## Author
 Maryam Naim
 
-## Author
-Maryam Naim
